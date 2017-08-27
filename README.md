@@ -21,7 +21,7 @@
 * mp3stair2는 track006.mp3~track010.mp3 까지 사용함.  
 ---
 * laser모듈은 아두이노 나노(또는 큐리 나노) 보드를 사용하며 laser.ino 파일을 업로드 함.
-* circuit.jpg는 회로도의 이미지 파일임.  
+* circuit.png는 회로도의 이미지 파일임.  
 * circuit.fzz는 회로도의 프릿징 파일임.  
 
 
@@ -36,4 +36,4 @@
 * 2초 이하의 동물소리들입니다. 계단에 사용하기 좋은 음원의 길이는 2초이하가 적당합니다.
 
 ---
-![](https://github.com/mtinet/animalSoundStair/circuit.jpg)
+![](https://github.com/mtinet/animalSoundStair/blob/master/circuit.png?raw=true)
