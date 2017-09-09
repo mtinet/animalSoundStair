@@ -44,7 +44,7 @@
 ---
 ### 관련사진
 [관련사진 링크](https://photos.app.goo.gl/d72FTgiFmgPUromA3)
-![](https://photos.app.goo.gl/FwW8nZPkJAo74XJY2)
+![](https://github.com/mtinet/animalSoundStair/blob/master/20170807_220036.jpg?raw=true)
 
 ---
 ### 회로도  
