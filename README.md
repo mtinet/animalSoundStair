@@ -44,6 +44,7 @@
 ---
 ### 관련사진
 [관련사진 링크](https://photos.app.goo.gl/d72FTgiFmgPUromA3)
+![](https://photos.app.goo.gl/FwW8nZPkJAo74XJY2)
 
 ---
 ### 회로도  
