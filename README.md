@@ -42,6 +42,10 @@
 * 2초 이하의 동물소리들입니다. 계단에 사용하기 좋은 음원의 길이는 2초이하가 적당합니다.
 
 ---
+### 관련사진
+[](https://photos.app.goo.gl/d72FTgiFmgPUromA3)
+
+---
 ### 회로도  
 * 회로도의 레이저 모듈과 조도센서 사이에 사람이 걸어다니는 계단이 있습니다.
 ![](https://github.com/mtinet/animalSoundStair/blob/master/circuit.png?raw=true)
