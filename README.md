@@ -43,7 +43,7 @@
 
 ---
 ### 관련사진
-[](https://photos.app.goo.gl/d72FTgiFmgPUromA3)
+[관련사진 링크](https://photos.app.goo.gl/d72FTgiFmgPUromA3)
 
 ---
 ### 회로도  
