@@ -58,7 +58,7 @@ void loop(){
   Serial.print(s5);
 
   
-  if (s1 < s_val1 - 200) {
+  if (s1 < s_val1 - 100) {
     MP3player.playTrack(6);   
     Serial.println("6");
     delay(10);
@@ -67,7 +67,7 @@ void loop(){
     Serial.println("non");
     delay(10);
   }
-  if (s2 < s_val2 - 200) {
+  if (s2 < s_val2 - 100) {
     MP3player.playTrack(7);   
     Serial.println("7");
     delay(10);
@@ -76,7 +76,7 @@ void loop(){
     Serial.println("non");
     delay(10);
   }
-  if (s3 < s_val3 - 200) {
+  if (s3 < s_val3 - 100) {
     MP3player.playTrack(8);   
     Serial.println("8");
     delay(10);
@@ -86,7 +86,7 @@ void loop(){
     delay(10);
   }
 
-  if (s4 < s_val4 - 200) {
+  if (s4 < s_val4 - 100) {
     MP3player.playTrack(9);   
     Serial.println("9");
     delay(10);
@@ -95,7 +95,7 @@ void loop(){
     Serial.println("non");
     delay(10);
   }
-  if (s5 < s_val5 - 200) {
+  if (s5 < s_val5 - 100) {
     MP3player.playTrack(10);   
     Serial.println("10");
     delay(10);
@@ -104,7 +104,6 @@ void loop(){
     Serial.println("non");
     delay(10);
   }  
-
 }
  
 
