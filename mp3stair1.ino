@@ -53,7 +53,7 @@ void loop(){
   Serial.print("  s4 : ");
   Serial.print(s4);
   Serial.print("  s5 : ");
-  Serial.print(s5);
+  Serial.println(s5);
 
   
   if (s1 < s_val1 - 100) {
